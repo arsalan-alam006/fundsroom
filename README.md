@@ -12,10 +12,6 @@ management, and a sales challan flow with stock-reduction business logic.
 
 ## 1. Architecture overview
 
-<<<<<<< HEAD
-
-=======
->>>>>>> ddd00f99fa26c55c614fd0ebf9df3da324a2bd4a
 ```
 erp-crm/
 ├── backend/            Express REST API (TypeScript + Prisma)
